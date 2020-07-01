@@ -1,0 +1,20 @@
+ALERT: Output: onLine
+ALERT: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW02: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW01: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW01: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW01: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW01: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW02: Output: simul
+ALERT: UPSMon_PARIS_APC3_5KW01: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW01: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW02: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW02: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW02: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW02: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW02: Input: rateOfVoltageChange
+ALERT: UPSMon_PARIS_APC3_5KW02: Input: rateOfVoltageChange
+ALERT: PARIS: Thu Jun 07 11:23:22 CEST 2012: 26deg.C: 23%RH: CHECK AIRCON: TOO HOT: T>25deg.C: Last Hour 26.0
+ALERT: PARIS: Thu Jun 07 11:43:22 CEST 2012: 26deg.C: 22%RH: TOO HOT: T>25deg.C: Last Hour 26.0
+TEST: PARIS: Thu Jun 07 11:53:22 CEST 2012: 26deg.C: 30%RH: TOO HOT: T>25deg.C: Last Hour 26.0
+ALERT: PARIS: Thu Jun 07 11:53:22 CEST 2012: 26deg.C: 30%RH: TOO HOT: T>25deg.C: Last Hour 26.0
